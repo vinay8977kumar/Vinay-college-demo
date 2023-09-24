@@ -1,4 +1,4 @@
 # Vinay-college-demo
 Vinay-college-demo
-<trt>
+<br>
 Author-Vinay
